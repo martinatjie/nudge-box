@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NudgeBox.Api", "NudgeBox.Api\NudgeBox.Api.csproj", "{B13B9E2A-727F-4C0D-A3DF-B1FB5524AA79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B13B9E2A-727F-4C0D-A3DF-B1FB5524AA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13B9E2A-727F-4C0D-A3DF-B1FB5524AA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13B9E2A-727F-4C0D-A3DF-B1FB5524AA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13B9E2A-727F-4C0D-A3DF-B1FB5524AA79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5FE40D4-5120-4A8D-9C03-3121F56745A6}
+	EndGlobalSection
+EndGlobal

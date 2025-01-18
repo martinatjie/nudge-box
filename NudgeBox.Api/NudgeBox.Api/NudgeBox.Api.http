@@ -1,0 +1,6 @@
+@NudgeBox.Api_HostAddress = http://localhost:5174
+
+GET {{NudgeBox.Api_HostAddress}}/Prompt/
+Accept: application/json
+
+###
