@@ -121,6 +121,9 @@ What if you want to create a nudge box that posts a prompt onto your Instagram f
 ### Language Support
 Say you want to play your _30 Seconds_ style game that you created on Nudge Box with your English friends this weekend and with your Afrikaans in-laws the weekend after that. And then there's your German family who you may want to play it with once a year. That's no problem either! Choose the language in which you want to play and your prompts will be translated. (note that with the help of AI it will try its best to find the right word and the right context, but computers can make mistakes!)
 
+### Pre-Loaded Lists
+Sometimes you wish to have a list of letters in the alphabet or numbers from 1 to `x`. Instead of having to type in prompts for all of these, we have some pre-defined list options available for you that you can choose from.
+
 ## Examples
 Here are some real life examples to give you an idea of how powerful Nudge Box can be.
 
@@ -133,7 +136,7 @@ _to be continued..._
 ### As a "what to eat" cheat sheet
 _to be continued..._
 
-### As a prayer dice
+### As table prayer dice
 _to be continued..._
 
 ### As a plain old die
