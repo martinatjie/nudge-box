@@ -19,5 +19,22 @@ namespace NudgeBox.Api.Controllers
             return Ok("this is a prompt!");
         }
 
+        [HttpPost]
+        public IActionResult Create()
+        {
+            return Ok();
+        }
+
+        [HttpPut]
+        public IActionResult Update()
+        {
+            return Ok();
+        }
+
+        [HttpDelete]
+        public IActionResult Delete()
+        {
+            return Ok();
+        }
     }
 }
